@@ -7,7 +7,6 @@
 </header>
 
 - [Nature](http://www.nature.com)
-- [Nature Communication](http://www.nature.com/ncomms/)
 - [Science](http://www.sciencemag.org/)
 </article>
 
@@ -16,6 +15,7 @@
 <h1>Lithium Ion Battery Journal</h1>
 <span><address>These journals will help me keep up with the state-of-art in LIB field</address></span>
 </header>
+- [Nature Communication](http://www.nature.com/ncomms/)  
 - [Nature Energy](http://www.nature.com/nenergy/)  
 - [Nature - Battery](https://www.nature.com/subjects/batteries)  
 - [Journal of Electrochemical Society](http://jes.ecsdl.org/)  
