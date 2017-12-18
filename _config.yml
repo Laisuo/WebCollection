@@ -1,0 +1,33 @@
+highlighter: rouge
+markdown: kramdown
+rdiscount:
+  extensions: [smart]
+permalink: :title.html
+paginate: 5
+plugins: [jekyll-paginate]
+port: 4000
+safe: true
+url: http://laisuo.github.io/vitae
+author: Fábio Madeira
+
+# edit this section with your information
+# myjekyll.github.io - all contents run on /vitae/
+# for a normal use at the base of the server change it to "/"
+baseurl: /vitae/
+title: Laisuo Su's Resume
+name: Laisuo Su
+email: laisuos at andrew dot edu dot cmu
+email_full: mailto:laisuos@andrew.cmu.edu
+website: laisuo.github.io
+website_full: https://laisuo.github.io
+github: trending
+twitter: twitter
+google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+address:
+  street: 5530 Phillips Ave
+  postcode: 15217
+  city: Pittsburgh
+  country: United States
+
+# needed for travis-ci build
+exclude: [vendor]
