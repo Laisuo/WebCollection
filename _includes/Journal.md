@@ -6,7 +6,8 @@
 <span><address>These journals help expand human understanding to this mysterious world </address></span>
 </header>
 
-- Advisor: [Professor B. Reeja Jayan](http://jayanlab.com/) 
+- [Nature](http://www.nature.com/index) 
+- [Science](http://www.sciencemag.org/)
 </article>
 
 <article markdown="1">
