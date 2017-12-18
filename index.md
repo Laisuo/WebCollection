@@ -2,7 +2,7 @@
 layout: layout
 ---
 
-{% include bio.md %}
+{% include Intro.md %}
 
 {% include Journal.md %}
 
