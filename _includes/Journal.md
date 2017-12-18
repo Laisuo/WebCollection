@@ -1,9 +1,9 @@
 <section class="thirteen columns" markdown="1">
-# Education
+# Journal
 <article markdown="1">
 <header>
-<h1>Ph.D. in Mechanical Engineering</h1>
-<span><address>Carnegie Mellon University, Pittsburgh, Pennsylvania </address><time>2016 - present</time></span>
+<h1>General Journal</h1>
+<span><address>These journals help expand human understanding to this mysterious world </address></span>
 </header>
 
 - Advisor: [Professor B. Reeja Jayan](http://jayanlab.com/) 
@@ -11,8 +11,8 @@
 
 <article markdown="1">
 <header>
-<h1>Master in Automotive Engineering</h1>
-<span><address>Tsinghua University, Beijing, China</address><time>2013 - 2016 </time></span>
+<h1>Lithium Ion Battery Journal</h1>
+<span><address>These journals will help me keep up with the state-of-art in LIB field</address></span>
 </header>
 Advisor: [Professor Jianbo Zhang](http://thueps.org/html/en/)  
 Dissertation: Study of Energy Type Lithium-Ion Cell Degradation Behavior under Multiple Stresses (Outstanding Thesis in Tsinghua University in 2016)  
@@ -21,8 +21,8 @@ Dissertation: Study of Energy Type Lithium-Ion Cell Degradation Behavior under M
 
 <article markdown="1">
 <header>
-<h1>Bachelor in Automotive Engineering (1/41)</h1>
-<span><address>Hefei University of Technology, Hefei, China</address><time>2009 to 2013 </time></span>
+<h1>Surface and Interface Journal</h1>
+<span><address>These journals help me be more familiar to  the fundermental of materials</span>
 </header>
 Dissertation: The Effect of Degradation on the Thermal Safety Issues in Lithium-Ion Battery (Outstanding Thesis in Hefei University of Technology)  
 - **Graduated with the Highest Distinction**  
