@@ -4,7 +4,7 @@ layout: layout
 
 {% include bio.md %}
 
-{% include education.md %}
+{% include Journal.md %}
 
 {% include awards.md %}
 
