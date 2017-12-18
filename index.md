@@ -6,7 +6,7 @@ layout: layout
 
 {% include Journal.md %}
 
-{% include awards.md %}
+{% include Researcher.md %}
 
 {% include research-exp.md %}
 
