@@ -17,6 +17,7 @@
 - **_UC Berkeley_**  
 [Peidong Yang](https://scholar.google.com/citations?hl=en&user=3XzcVwEAAAAJ&view_op=list_works&sortby=pubdate)  
 - **_MIT_**  
+[Martin Z. Bazant](http://www.mit.edu/~bazant/)  
 [Yang Shao-Horn](http://web.mit.edu/eel/publications.html)  
 [Ju Li](https://scholar.google.com/citations?user=SHVhdhoAAAAJ&hl=en&oi=ao)  
 [Yet-Ming Chiang](https://dmse.mit.edu/faculty/profile/chiang)  
@@ -27,6 +28,7 @@
 - **_Canada_**  
 [Jeff Dahn](https://apps.webofknowledge.com/DaisyOneClickSearch.do?product=WOS&search_mode=DaisyOneClickSearch&colName=WOS&SID=6CGBYWYq2t1YnqnEdb3&author_name=Dahn,%20JR&dais_id=18980945&excludeEventConfig=ExcludeIfFromFullRecPage)  
 - **_China_**  
+[Jianbo Zhang](http://thueps.org/html/en/)  
 [Jun Huang](https://scholar.google.com/citations?user=VcI4cDkAAAAJ&hl=en)  
 [Peng Bai](https://scholar.google.com/citations?user=5Tw9egMAAAAJ&hl=en&oi=ao)  
 
