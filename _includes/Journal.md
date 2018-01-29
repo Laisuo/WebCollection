@@ -22,6 +22,7 @@
 - [Journal of Power Sources](https://www.sciencedirect.com/science/journal/03787753)  
 - [ACS Energy Letter](http://pubs.acs.org/journal/aelccp)  
 - [ACS Publication](http://pubs.acs.org/): There are many good journals in ACS
+- [Batteries](http://www.mdpi.com/journal/batteries)  
 
 </article>
 
